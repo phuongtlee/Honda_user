@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520935610800",
+    "project_id": "hondamaintenance-f06a8",
+    "storage_bucket": "hondamaintenance-f06a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520935610800:android:02deb42afb3197ad0f5e75",
+        "android_client_info": {
+          "package_name": "com.hondamanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAZCIjQO8cf6sS1RYz00wYL8VNhYc6O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520935610800:android:3500fe455bf387e00f5e75",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAZCIjQO8cf6sS1RYz00wYL8VNhYc6O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
